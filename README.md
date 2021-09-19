@@ -1,4 +1,4 @@
-# [Fizika](https://www.github.com/studosi-fer/FIZIKA)
+# [Fizika](https://www.github.com/studosi-fer/FIZ)
 
 ## Stariji repozitoriji:
 - [Fizika 1](https://www.github.com/studosi-fer/FIZ1)
